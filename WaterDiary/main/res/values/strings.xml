@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">assingment1</string>
+
+
+    <string name="btnE">Exit</string>
+
+    <string name="btnStart">Start</string>
+
+    <string name="txtGrid3">H20 usage calculator</string>
+
+    <string name="txtGrid">H20 usage calculator</string>
+    <string name="main_Grid">main_Grid</string>
+
+    <string name="Calculate">Calculate</string>
+    <string name="back">Back</string>
+
+    <string name="txtGrid2">H20 usage calculator</string>
+
+    <string name="textView2">textView2</string>
+
+    <string name="textV1">Dishes</string>
+
+    <string name="textV2">Laundry</string>
+    <string name="txtV_cooking">cooking</string>
+
+    <string name="txt_cleaning">cleaning</string>
+
+    <string name="txtV_Hygien">Hygien</string>
+
+
+    <string name="txtV_shower">shower</string>
+
+
+    <string name="txtV_Drinking">Drinking</string>
+
+    <string name="txtV_Toilet">Toilet</string>
+
+
+    <string name="txtV_Total">Total</string>
+
+
+    <string name="btn_back2">back</string>
+
+    <string name="btn_add">add</string>
+
+
+    <string name="btn_display_Cleaning">Display Cleaning</string>
+
+
+
+
+
+
+    <string name="txtGrid4">H20 usage calculator</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

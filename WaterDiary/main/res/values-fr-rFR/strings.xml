@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">assingment1</string>
+    <string name="Calculate">Calculer</string>
+    <string name="btnE">Sortie</string>
+    <string name="btnStart">début</string>
+    <string name="txtGrid3">calculateur de consommation d\'eau</string>
+    <string name="txtGrid">calculateur de consommation d\'eau</string>
+    <string name="back">arrière</string>
+    <string name="txtGrid2">calculateur de consommation d\'eau</string>
+    <string name="btn_back2">arriere</string>
+    <string name="btn_add">ajouter</string>
+    <string name="btn_display_Cleaning">nettoyage de l\'affichage</string>
+    <string name="textV1">vaiselle</string>
+    <string name="textV2">blanchisserie</string>
+    <string name="txtV_cooking">cuisine</string>
+    <string name="txt_cleaning">nettoyage</string>
+    <string name="txtV_Hygien">hygiene</string>
+    <string name="txtV_shower">douche</string>
+    <string name="txtV_Drinking">en buvant</string>
+    <string name="txtV_Toilet">toilette</string>
+    <string name="txtV_Total">total</string>
+    <string name="main_Grid">grid</string>
+    <string name="textView2">view</string>
+    <string name="txtGrid4">grid</string>
+</resources>

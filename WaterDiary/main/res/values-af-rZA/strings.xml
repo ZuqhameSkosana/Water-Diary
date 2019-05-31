@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">assingment1</string>
+    <string name="btnE">uitgang</string>
+    <string name="btnStart">begin</string>
+    <string name="txtGrid3">water gebruik calculator</string>
+    <string name="txtGrid">water gebruik calculator</string>
+    <string name="txtGrid2">water gebruik calculator</string>
+    <string name="txtGrid4">water gebruik calculator</string>
+    <string name="Calculate">bereken</string>
+    <string name="back">terug</string>
+    <string name="btn_back2">terug</string>
+    <string name="txtV_Toilet">toilet</string>
+    <string name="btn_add">voeg</string>
+    <string name="btn_display_Cleaning">vertoon skoonmaak</string>
+    <string name="txtV_cooking">kook</string>
+    <string name="txt_cleaning">skoonmaak</string>
+    <string name="txtV_Hygien">higiëne</string>
+    <string name="txtV_shower">stort</string>
+    <string name="txtV_Drinking">drink</string>
+    <string name="txtV_Total">totale</string>
+    <string name="textV1">geregte</string>
+    <string name="textV2">wasgoed</string>
+    <string name="main_Grid">grid</string>
+    <string name="textView2">view</string>
+</resources>
